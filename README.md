@@ -20,7 +20,7 @@ HTML5
 CSS3
 Javascript
 # Demo 🎮
-You can try the login page live by visiting the (Demo) [https://snehak71501.github.io/BMI-Calculator-Using-HTML-CSS-and-Javascript/]
+You can try the login page live by visiting the [Demo] (https://snehak71501.github.io/BMI-Calculator-Using-HTML-CSS-and-Javascript/)
 # Author 📣
 Sneha Bai 
 _snehak71501
