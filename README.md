@@ -9,12 +9,12 @@ Simple, responsive BMI (Body Mass Index) calculator that calculates the BMI base
 -Categorizes the BMI result as underweight, normal weight, or overweight.
 *Validates input to ensure only positive numerical values are accepted.
 # How to Use 🚀
-1.Open the Login Page: Load the HTML file in your web browser.
-2.Enter Credentials: Input the email(snehak71501@gmail.com) and password(Sneha@003) in the provided fields.
-3.Submit Form: Click the login button to submit.
-4.View Feedback: Receive a success message for correct credentials or an error message for incorrect ones.
+1.Open the BMI Calculator: Visit the live demo URL.
+2.Enter your weight in kilograms: Ensure it's a positive number.
+3.Enter your height in centimeters: Ensure it's a positive number.
+4.Click "Calculate BMI": View your BMI and its category.
 # Usage 🖥️
-You can access the login page by opening the index.html file in a web browser. You can also integrate this login page into your web projects by including the necessary HTML, CSS, and JavaScript files.
+You can access the bmi calculator by opening the index.html file in a web browser. You can also integrate this bmi calculator into your web projects by including the necessary HTML, CSS, and JavaScript files.
 # Technologies Used 💻
 HTML5
 CSS3
@@ -23,4 +23,4 @@ Javascript
 You can try the login page live by visiting the [Demo](https://snehak71501.github.io/BMI-Calculator-Using-HTML-CSS-and-Javascript/).
 # Author 📣
 Sneha Bai 
-_snehak71501
+_  Github:snehak71501
